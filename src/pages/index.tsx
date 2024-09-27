@@ -1,5 +1,5 @@
 import { GetStaticProps } from 'next'
-import Image from 'next/image'
+// import Image from 'next/image'
 // import PostList from '@/components/organisms/post/PostList'
 // import Layout from '@/components/templates/Layout'
 import { client } from '@/libs/client'
